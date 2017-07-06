@@ -9,3 +9,6 @@ cd Python-$version
 ./configure
 make
 sudo checkinstall
+
+
+refer: https://askubuntu.com/questions/101591/how-do-i-install-the-latest-python-2-7-x-or-3-x-on-ubuntu
